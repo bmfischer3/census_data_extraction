@@ -7,8 +7,10 @@ us_neighborhoods_database.*
 /venv
 /*.venv
 .venv/*
+venv/
 
-!*/screenshots/*
+!/screenshots/
+!/screenshots/*
 
 # specific environment files for mac
 *.DS_Store 
@@ -51,7 +53,6 @@ us_neighborhoods_database.*
 # common photo files
 *.jpg
 *.jpeg
-*.png
 *.gif
 *.bmp
 *.tiff
