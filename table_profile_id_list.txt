@@ -1,0 +1,8 @@
+S1901_C01_001E,total_households 
+S1901_C01_012E,median_household_income 
+S1901_C01_013E,mean_household_income
+B25012_003E,owned_homes_with_children_under18
+B25012_009E,owned_homes_with_NO_children_under18 
+B25012_001E,total_households2
+
+
