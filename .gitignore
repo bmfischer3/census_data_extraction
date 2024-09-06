@@ -9,6 +9,7 @@ us_neighborhoods_database.*
 .venv/*
 
 !screenshots/*
+!*screenshots/
 
 # specific environment files for mac
 *.DS_Store 
