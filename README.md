@@ -121,11 +121,11 @@ B25012_001E,total_households2
 ## Quick Glance at Results
 - In this example, I gathered zip codes from all regions circled in the below image. Essentially all of Chicago. 
 
-![chicago,illinois](2024-09-06-13-42-55.png)
+![chicago,illinois](screenshots/2024-09-06-13-42-55.png)
 
 A snippet of the resulting data is below:
 
-![](2024-09-06-13-43-39.png)
+![](screenshots/2024-09-06-13-43-39.png)
 
 
   
