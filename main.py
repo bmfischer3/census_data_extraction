@@ -65,7 +65,7 @@ def export_zip_dataframe(state_abrv:str, table_profile_id_list_path:str, raw_dat
     zip_data = pd.DataFrame(main_df)
     column_params = dict(transform_raw_table_names(table_profile_id_list_path))
     zip_data.rename(columns=column_params, inplace=True)
-    file_name = 'export_test.xlsx'
+    file_name = 'zip_code_data_export.xlsx'
     zip_data.to_excel(file_name)
 
 def get_all_column_data(state_abrv:str, table_profile_id:str, raw_data_path:str, year=2022) -> dict:
